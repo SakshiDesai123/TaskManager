@@ -23,7 +23,7 @@ A modern, responsive task management web application with real-time cloud storag
 
 | Tasks View | Add Task | Configuration |
 |------------|----------|---------------|
-| ![Tasks](/test/taskview.png) | ![Add](https://via.placeholder.com/300x200/10b981/ffffff?text=Add+Task) | ![Config](https://via.placeholder.com/300x200/8b5cf6/ffffff?text=Configuration) |
+| ![Tasks](/test/taskview.png) | ![Add](/tes/addtask.png) | ![Config](/test/config.jpg) |
 
 ## 🛠️ Technologies Used
 

@@ -273,12 +273,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
 
-For support, please:
-1. Check the [Troubleshooting](#troubleshooting) section
-2. Open an issue on GitHub
-3. Email: support@example.com
 
 ---
 
@@ -286,7 +281,7 @@ For support, please:
 
 ### ⭐ Star this repo if you found it helpful!
 
-**Built with ❤️ using Supabase**
+**Built with ❤️ By Sakshi Desai using Supabase**
 
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)

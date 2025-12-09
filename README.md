@@ -1,4 +1,4 @@
-# TaskManager
+
 # 📋 Task Manager - Supabase Backend
 
 A modern, responsive task management web application with real-time cloud storage using Supabase.
